@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Dedenwrg 👋
 
-<!--
-**Dedenwrg/Dedenwrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Passionate about blockchain and Python automation**
 
-Here are some ideas to get you started:
+[![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Dedenwrg.readme/visits)](https://github.com/Dedenwrg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Developer** specializing in **Python** and blockchain tech.
+- ⚡ Contributor to [`@ethereum/go-ethereum`](https://github.com/ethereum/go-ethereum)
+- 🚀 Always vibing with code—building, experimenting, and exploring new tech.
+- 🌐 Check out my project: [Adanothe Faucet](https://faucet.adanothe.com/)
+
+---
+
+## 🔥 Tech Stack & Interests
+
+- **Languages:** Python, Go
+- **Blockchain:** Ethereum, Geth
+- **Interests:** Automation, smart contracts, open source collaboration
+
+---
+
+## 📈 Let's Connect!
+
+Feel free to reach out, collaborate, or just vibe about code and blockchain!
+
+```
+Happy coding! 🚀
